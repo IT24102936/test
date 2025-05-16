@@ -16,7 +16,7 @@
       <span class="navbar-toggler-icon"></span>
     </button>
 
-    <!-- Navigation Links -->
+    <!-- Navigation Links ------------------------------------ -->
     <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
